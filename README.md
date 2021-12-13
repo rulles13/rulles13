@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rulles13
 - 👀 I’m interested in computer and design
-- 🌱 I have learned web devlopment with OpenClassrooms
+- 🌱 I have learned web development with OpenClassrooms
 - 💞️ I’m looking to collaborate on many thing
 - 📫 How to reach me : stephanegillon@hotmail.com
 - wow - You can see my design's book online : https://stephanegillon.carbonmade.com/
