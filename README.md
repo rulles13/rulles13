@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rulles13
+- 👋 Hi, I’m Stéphane GILLON
 - 👀 I’m interested in computer and design
 - 🌱 I have learned web development with OpenClassrooms
 - 💞️ I’m looking for a job as junior web developper
